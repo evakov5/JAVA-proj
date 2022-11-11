@@ -100,7 +100,7 @@ Author: Kovalenko Yeva KN-921v
 ```
 
 Результат:
-*Результат редагування: Making a new deal means a lot to me
+* Результат редагування: Making a new deal means a lot to me
 
 ### 2.1 Засоби ООП
 * Java code convention
