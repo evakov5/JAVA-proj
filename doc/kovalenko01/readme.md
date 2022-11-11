@@ -38,7 +38,8 @@
 <img src="https://github.com/evakov5/JAVA-proj/blob/main/doc/kovalenko01/assets/second.png">
 <img src="https://github.com/evakov5/JAVA-proj/blob/main/doc/kovalenko01/assets/first.png">
 * Компіляція програми у терміналі:
-![image](https://user-images.githubusercontent.com/90566260/201293809-be1d113e-5c8d-41d3-af81-5d32918404e5.png)
+![image](https://user-images.githubusercontent.com/90566260/201293957-cd69f3b5-466f-4071-9860-bae2d5129f0a.png)
+
 
 
 ### 2.1 Засоби ООП
