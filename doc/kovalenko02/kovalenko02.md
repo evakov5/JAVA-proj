@@ -36,7 +36,7 @@
 ![image](https://user-images.githubusercontent.com/90566260/201296760-93773952-b187-4a31-a546-b27ac78e0480.png)
 ![image](https://user-images.githubusercontent.com/90566260/201296916-7615ff4f-e92f-4c9a-b346-0cbbcbceaf94.png)
 * Компіляція програми у терміналі:
-<img src="(https://github.com/evakov5/JAVA-proj/blob/main/doc/kovalenko02/assets/resss.jpg)">
+<img src="https://github.com/evakov5/JAVA-proj/blob/main/doc/kovalenko02/assets/resss.jpg">
 
 
 
