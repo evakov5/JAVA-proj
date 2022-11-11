@@ -36,7 +36,7 @@
 * Структура программи:
   * Головний клас з точкою входа в програму знаходиться у пакеті: ua.khpi.oop.kovalenko01.Main
 * Код програми та брейкпоінти, що будуть використовуватись відлагодником для перевірки роботи програми:
-![image](https://user-images.githubusercontent.com/90566260/201300723-b85f4cb4-16d5-4fec-a7b7-3118abb8917b.png)
+![image](https://user-images.githubusercontent.com/90566260/201308153-4f108d89-aae5-481c-a987-a8f8b185b72d.png)
 * Відлагодження програми та показ результатів виконання:
 <img src="https://github.com/evakov5/JAVA-proj/blob/main/doc/kovalenko01/assets/second.png">
 <img src="https://github.com/evakov5/JAVA-proj/blob/main/doc/kovalenko01/assets/first.png">
