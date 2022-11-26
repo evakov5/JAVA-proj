@@ -27,6 +27,7 @@
 Entry path: D:\univer\music
 Done	
 ```
+* Створений файл:
   ![image](https://user-images.githubusercontent.com/90566260/204087129-0c039dd4-7dc4-47ce-937c-1510b3ee33c2.png)
 
 
