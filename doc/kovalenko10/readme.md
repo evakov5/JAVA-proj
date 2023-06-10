@@ -41,14 +41,14 @@
         });
     }
 	
-	// sort by rating
-    public <T extends Comparable<T>> void sortByRating(List<Audioteka> list, boolean ascending) {
+// sort by rating
+    	public <T extends Comparable<T>> void sortByRating(List<Audioteka> list, boolean ascending) {
         list.sort((v1, v2) -> {
             int result = Boolean.compare(v1.getR() > v2.getR(), false);
             return ascending ? result : -result;
         }); }
     
-	// sort by authors
+// sort by authors
 	public <T extends Comparable<T>> void sortByAuthor(List<Audioteka> list, boolean ascending) {
         list.sort((v1, v2) -> {
             int result = v1.getAuthors().compareTo(v2.getAuthors());
